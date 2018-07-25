@@ -21,7 +21,7 @@ String basePath = request.getScheme() + "://"
 		<!--
 		<link rel="stylesheet" type="text/css" href="styles.css">
 		-->
-		<title>Exam++</title>
+		<title>万天在线学习平台与考试平台</title>
 		<meta name="viewport"
 		content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="apple-mobile-web-app-capable" content="yes">
@@ -165,7 +165,7 @@ String basePath = request.getScheme() + "://"
 											<label class="checkbox-inline">
 												<input type="checkbox"
 												id="inlineCheckbox1" value="agree">
-												<a> 同意Exam++条款</a> </label>
+												<a> 同意万天条款</a> </label>
 											<span class="form-message"></span>
 										</div>
 
@@ -195,12 +195,12 @@ String basePath = request.getScheme() + "://"
 
 		</div>
 		<footer>
-			<div class="container">
+		<div class="container">
 				<div class="row">
 					<div class="col-md-12">
 						<div class="copy">
 							<p>
-								Exam++ Copyright © <a href="http://www.examxx.net/" target="_blank">Exam++</a> - <a href="." target="_blank">主页</a> | <a href="http://www.examxx.net/" target="_blank">关于我们</a> | <a href="http://www.examxx.net/" target="_blank">FAQ</a> | <a href="http://www.examxx.net/" target="_blank">联系我们</a>
+								山东万天 Copyright © <a href="http://www.wtsoft.wang/" target="_blank">万天</a> - <a href="." target="_blank">主页</a> | <a href="http://www.wtsoft.wang/" target="_blank">关于我们</a> | <a href="http://www.wtsoft.wang/" target="_blank">FAQ</a> | <a href="http://www.wtsoft.wang/" target="_blank">联系我们</a>
 							</p>
 						</div>
 					</div>

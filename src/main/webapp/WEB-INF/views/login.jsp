@@ -14,7 +14,7 @@ String basePath = request.getScheme() + "://"
 		<base href="<%=basePath%>">
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>Exam++ 登录系统</title>
+		<title>万天在线学习平台与考试平台</title>
 		
 		<meta name="apple-mobile-web-app-capable" content="yes">
 		<meta name="keywords" content="">
@@ -91,7 +91,7 @@ String basePath = request.getScheme() + "://"
 
 					<div class="col-md-12">
 						<div class="lrform">
-							<h5>登陆Exam++</h5>
+							<h5>登陆万天在线学习与考试平台</h5>
 							<div class="form">
 								<!-- Login form (not working)-->
 								<form class="form-horizontal" action="j_spring_security_check" method="post">
@@ -139,7 +139,7 @@ String basePath = request.getScheme() + "://"
 					<div class="col-md-12">
 						<div class="copy">
 							<p>
-								Exam++ Copyright © <a href="http://www.examxx.net/" target="_blank">Exam++</a> - <a href="." target="_blank">主页</a> | <a href="http://www.examxx.net/" target="_blank">关于我们</a> | <a href="http://www.examxx.net/" target="_blank">FAQ</a> | <a href="http://www.examxx.net/" target="_blank">联系我们</a>
+								山东万天 Copyright © <a href="http://www.wtsoft.wang/" target="_blank">万天</a> - <a href="." target="_blank">主页</a> | <a href="http://www.wtsoft.wang/" target="_blank">关于我们</a> | <a href="http://www.wtsoft.wang/" target="_blank">FAQ</a> | <a href="http://www.wtsoft.wang/" target="_blank">联系我们</a>
 							</p>
 						</div>
 					</div>

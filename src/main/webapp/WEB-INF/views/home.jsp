@@ -15,7 +15,7 @@ String basePath = request.getScheme() + "://"
 		Remove this if you use the .htaccess -->
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		<title>Exam++</title>
+		<title>万天在线学习平台与考试平台</title>
 		<meta name="viewport"
 		content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 		<meta name="apple-mobile-web-app-capable" content="yes">
@@ -146,8 +146,10 @@ String basePath = request.getScheme() + "://"
 							<div class="flex-caption">
 								<!-- Left column -->
 								<div class="col-l">
-									<p style="text-indent:2em;">Exam++是国内首款一款基于JAVA与MYSQL开发的网络考试系统。它可以稳定、顺畅的运行在Windows与Linux平台上。您可以通过它快捷方便的创建试题和题库，发布试卷，组织考试，系统自动批改。高度的可配置性和灵活性使得它可以被应用于很多领域。</p>
+									<p style="text-indent:2em;">万天在线学习与考试平台一款基于JAVA与MYSQL开发的网络考试系统。它可以稳定、顺畅的运行在Windows与Linux平台上。您可以通过它快捷方便的创建试题和题库，发布试卷，组织考试，系统自动批改。高度的可配置性和灵活性使得它可以被应用于很多领域。</p>
+									<!-- 
 									<p style="text-indent:2em;">软件采用GPL协议，完全开放且免费，并且有固定的开发团队提供技术支持</p>
+									 -->
 								</div>
 								<!-- Right column -->
 								<div class="col-r">
@@ -155,11 +157,13 @@ String basePath = request.getScheme() + "://"
 									<!-- Use the class "flex-back" to add background inside flex slider -->
 
 									<!-- <img alt="" src="resources/images/ad.png"> -->
+									<!--
 									<p>如果您对软件有任何反馈和建议，加入我们的QQ群152258375一起讨论吧</p>
-
+									-->
 									<!-- Button -->
+									<!--
 										<a class="btn btn-default btn-cta" href="user-register"><i class="fa fa-arrow-circle-down"></i> 马上加入我们吧</a>
-
+ 									-->
 								</div>
 							</div>
 						</div>
@@ -413,7 +417,7 @@ String basePath = request.getScheme() + "://"
 					<div class="col-md-12">
 						<div class="copy">
 							<p>
-								Exam++ Copyright © <a href="http://www.examxx.net/" target="_blank">Exam++</a> - <a href="." target="_blank">主页</a> | <a href="http://www.examxx.net/" target="_blank">关于我们</a> | <a href="http://www.examxx.net/" target="_blank">FAQ</a> | <a href="http://www.examxx.net/" target="_blank">联系我们</a>
+								山东万天 Copyright © <a href="http://www.wtsoft.wang/" target="_blank">万天</a> - <a href="." target="_blank">主页</a> | <a href="http://www.wtsoft.wang/" target="_blank">关于我们</a> | <a href="http://www.wtsoft.wang/" target="_blank">FAQ</a> | <a href="http://www.wtsoft.wang/" target="_blank">联系我们</a>
 							</p>
 						</div>
 					</div>
@@ -481,6 +485,5 @@ String basePath = request.getScheme() + "://"
 			});
 		}
 		</script>
-		<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1252987997'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1252987997' type='text/javascript'%3E%3C/script%3E"));</script>
 	</body>
 </html>
